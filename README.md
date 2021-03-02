@@ -1,3 +1,3 @@
 # sql-challenge
 
-Home instructions 
+Homework instructions 
